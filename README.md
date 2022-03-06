@@ -100,8 +100,6 @@ Download the [package](https://github.com/DIT112-V20/group-01/archive/master.zip
 
 5. The distance driven by the car will now be displyed on the screen.
 
-# Product Demo
-Watch it here : [https://youtu.be/2E3qfQQXuCo](https://youtu.be/2E3qfQQXuCo)
 
 # Team
 * Karam Khatib guskarkh@student.gu.se
